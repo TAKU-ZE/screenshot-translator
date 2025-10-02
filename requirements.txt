@@ -1,0 +1,4 @@
+PyQt5>=5.15
+requests>=2.31
+mss>=9.0
+Pillow>=10.0
